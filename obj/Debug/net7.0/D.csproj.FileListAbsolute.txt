@@ -1,0 +1,15 @@
+D:\atividade cor\bin\Debug\net7.0\D.exe
+D:\atividade cor\bin\Debug\net7.0\D.deps.json
+D:\atividade cor\bin\Debug\net7.0\D.runtimeconfig.json
+D:\atividade cor\bin\Debug\net7.0\D.dll
+D:\atividade cor\bin\Debug\net7.0\D.pdb
+D:\atividade cor\obj\Debug\net7.0\D.csproj.AssemblyReference.cache
+D:\atividade cor\obj\Debug\net7.0\D.GeneratedMSBuildEditorConfig.editorconfig
+D:\atividade cor\obj\Debug\net7.0\D.AssemblyInfoInputs.cache
+D:\atividade cor\obj\Debug\net7.0\D.AssemblyInfo.cs
+D:\atividade cor\obj\Debug\net7.0\D.csproj.CoreCompileInputs.cache
+D:\atividade cor\obj\Debug\net7.0\D.dll
+D:\atividade cor\obj\Debug\net7.0\refint\D.dll
+D:\atividade cor\obj\Debug\net7.0\D.pdb
+D:\atividade cor\obj\Debug\net7.0\D.genruntimeconfig.cache
+D:\atividade cor\obj\Debug\net7.0\ref\D.dll

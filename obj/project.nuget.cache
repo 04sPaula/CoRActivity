@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oBeA6bvLmyHjs4j+H0ZsxPVgzUnZIoJXjvxVr6dL/08EAoZsLCWoxg4IcXdqSYWyijtg2fZxQvvHWlInriVH0w==",
+  "success": true,
+  "projectFilePath": "/home/paulaalves/Documentos/atividade CoR/D.csproj",
+  "expectedPackageFiles": [
+    "/home/paulaalves/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.15/microsoft.netcore.app.host.linux-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
